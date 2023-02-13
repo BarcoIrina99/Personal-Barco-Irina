@@ -1,6 +1,6 @@
 # Bienvenido a mi página personal de GitHub
 
-Hola, Mi nombre es **Irina Barco** y este es mi sitio en GitHub Pages. 
+Hola, Mi nombre es * **Irina Barco** * y este es mi sitio en GitHub Pages. 
 Este sitio es una forma para compartir información sobre mí y mi trabajo con el mundo.
 
 ![Esta soy yo](https://github.com/BarcoIrina99/Personal-Barco-Irina/blob/main/irina.jpeg)
