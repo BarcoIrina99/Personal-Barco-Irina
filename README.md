@@ -3,13 +3,14 @@
 Hola, Mi nombre es *Irina Barco* y este es mi sitio en GitHub Pages. 
 Este sitio es una forma para compartir información sobre mí y mi trabajo con el mundo.
 
-![Esta soy yo](image-url)
+![Esta soy yo](https://github.com/BarcoIrina99/Personal-Barco-Irina/blob/main/irina.jpeg)
 
 ## Acerca de mí
 
 
+Soy una persona muy alegre me gusta compartir con mis amigos y familiares, tambien me gusta escuchar musica de cualquier género, soy una persona muy responsable con mis tareas de la Universidad actualmen estoy en el 6to semestre de la carrera de Software, de la facultad de Ciencias Matemáticas y fisica. Me apasiona mucho lo que es el diseño de paginas web, estoy buscando aprender un mucho más para poder sobresalir en este mundo del saber y tambien estoy siempre buscando nuevos desafíos y oportunidades para aprender y crecer.
 
-Soy un [profesión o descripción breve de ti mismo]. Me apasiona [tus intereses o pasiones] y estoy siempre buscando nuevos desafíos y oportunidades para aprender y crecer.
+![Esta soy yo]( )
 
 
 
