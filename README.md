@@ -22,7 +22,9 @@ Aquí hay algunos de mis proyectos más destacados:
 
 
 
-- [Nombre del proyecto 1](link al proyecto 1): Una descripción breve del proyecto 1.
+- [ *Sistema para manejor de Recursos Humanos*): creación, modificación y eliminación de personas, departamentos, funciones, cargos, salarios.
+    [*Proyecto* ](pdf-url)
+
 
 - [Nombre del proyecto 2](link al proyecto 2): Una descripción breve del proyecto 2.
 
