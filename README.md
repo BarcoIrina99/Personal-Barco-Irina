@@ -23,7 +23,7 @@ Aquí hay algunos de mis proyectos más destacados:
 
 
 - [ *Sistema para manejor de Recursos Humanos*): creación, modificación y eliminación de personas, departamentos, funciones, cargos, salarios.
-    [*Proyecto* ](pdf-url)
+    [*Proyecto* ](https://github.com/BarcoIrina99/Personal-Barco-Irina/blob/main/Proyecto%20de%20bases%20de%20datos%20Grupo%20A.pdf)
 
 
 - [Nombre del proyecto 2](link al proyecto 2): Una descripción breve del proyecto 2.
