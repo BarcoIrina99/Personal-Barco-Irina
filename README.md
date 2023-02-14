@@ -25,10 +25,7 @@ Aquí hay algunos de mis proyectos más destacados:
 - [ *Sistema para manejor de Recursos Humanos*): creación, modificación y eliminación de personas, departamentos, funciones, cargos, salarios.
     [*Proyecto* ](https://github.com/BarcoIrina99/Personal-Barco-Irina/blob/main/Proyecto%20de%20bases%20de%20datos%20Grupo%20A.pdf)
 
-
-- [Nombre del proyecto 2](link al proyecto 2): Una descripción breve del proyecto 2.
-
-- [Nombre del proyecto 3](link al proyecto 3): Una descripción breve del proyecto 3.
+- [Book Report](link al proyecto 2): Desaroollo de nuestro manejo en ingles, comprensión lectora.
 
 
 
@@ -40,6 +37,7 @@ Si desea contactarme, puede hacerlo a través de mi correo electrónico en [*bar
 También puede encontrarme en:
 
 -[**Facebook**): *Irina Isbeth Barco Macías
+
 -[**Instagram**): Irina Barco
 
 
