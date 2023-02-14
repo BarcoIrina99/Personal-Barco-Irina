@@ -36,8 +36,10 @@ Aquí hay algunos de mis proyectos más destacados:
 
 
 
-Si desea contactarme, puede hacerlo a través de mi correo electrónico en [tu correo electrónico]. También puede encontrarme en [tus perfiles en las redes sociales].
-
+Si desea contactarme, puede hacerlo a través de mi correo electrónico en [*barcoirina1999@gmail.com]. 
+También puede encontrarme en:
+-Facebook: *Irina Isbeth Barco Macías
+-Instagram: Irina Barco
 
 
 Gracias por visitar mi sitio en GitHub Pages. ¡Espero que lo encuentre útil y interesante!
