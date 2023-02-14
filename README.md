@@ -36,11 +36,13 @@ Aquí hay algunos de mis proyectos más destacados:
 Si desea contactarme, puede hacerlo a través de mi correo electrónico en [*barcoirina1999@gmail.com]. 
 También puede encontrarme en:
 
-<a href="https://www.facebook.com/irinaisbeth.barcomacias.5?mibextid=ZbWKwL">Sigueme en Facebook</a>
+
+- <a href="https://www.facebook.com/irinaisbeth.barcomacias.5?mibextid=ZbWKwL">Sigueme en Facebook</a>
 
 
 
--[**Instagram**): Irina Barco
+- <a href="https://www.instagram.com/irinaisbeth/">Sigueme en Instagram</a>
+
 
 
 Gracias por visitar mi sitio en GitHub Pages. ¡Espero que lo encuentre útil y interesante!
