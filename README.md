@@ -36,7 +36,9 @@ Aquí hay algunos de mis proyectos más destacados:
 Si desea contactarme, puede hacerlo a través de mi correo electrónico en [*barcoirina1999@gmail.com]. 
 También puede encontrarme en:
 
--[**Facebook**): *Irina Isbeth Barco Macías
+<a href="https://www.facebook.com/irinaisbeth.barcomacias.5?mibextid=ZbWKwL">Sigueme en Facebook</a>
+
+
 
 -[**Instagram**): Irina Barco
 
