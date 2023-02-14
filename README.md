@@ -25,7 +25,7 @@ Aquí hay algunos de mis proyectos más destacados:
 - [ *Sistema para manejor de Recursos Humanos*): creación, modificación y eliminación de personas, departamentos, funciones, cargos, salarios.
     [*Proyecto* ](https://github.com/BarcoIrina99/Personal-Barco-Irina/blob/main/Proyecto%20de%20bases%20de%20datos%20Grupo%20A.pdf)
 
-- [Book Report](https://github.com/BarcoIrina99/Personal-Barco-Irina/blob/main/Report%20on%20Harry%20Potter%20and%20the%20philosopher's%20stone.%20Barco%20Irina.pdf):    Desaroollo de nuestro manejo en ingles, comprensión lectora.
+- [Book Report): Desaroollo de nuestro manejo en ingles, comprensión lectora.[Book Report](https://github.com/BarcoIrina99/Personal-Barco-Irina/blob/main/Report%20on%20Harry%20Potter%20and%20the%20philosopher's%20stone.%20Barco%20Irina.pdf):    
 
 
 
